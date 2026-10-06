@@ -1,0 +1,11 @@
+# .gitignore
+references/
+contexts/
+task-description.md
+task-plan.md
+task-description-[0-9]*.md
+!task-description-example.md
+
+node_modules/
+.env
+.DS_Store

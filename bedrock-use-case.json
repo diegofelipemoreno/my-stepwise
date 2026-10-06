@@ -1,0 +1,8 @@
+{
+    "companyName": "My Stepwise",
+    "companyWebsite": "https://github.com/diegofelipemoreno/my-stepwise",
+    "intendedUsers": "1",
+    "industryOption": "Technology",
+    "otherIndustryOption": "",
+    "useCases": "My Stepwise is an AI assistant designed to help developers with frontend software development. It assists users with tasks such as generating, reviewing, explaining, debugging, and improving frontend code, including JavaScript, TypeScript, HTML, CSS, React, Vite, and related web development technologies. The assistant is used to improve developer productivity, understand technical problems, create implementation suggestions, and provide guidance during software development. Amazon Bedrock and Anthropic models are used to provide natural language assistance and code-related responses."
+}
